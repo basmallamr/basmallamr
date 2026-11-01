@@ -31,3 +31,11 @@ I enjoy exploring new technologies, understanding how systems work, and turning 
 ---
 
 *Building, learning, and improving — one project at a time.*
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basmallamr&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmallamr&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p> 
